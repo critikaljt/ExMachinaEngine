@@ -2,14 +2,14 @@
 A 3D Game Engine, Designed for old-school shooters
 
 **We Need Help!**
---With: Converting batch files and other parts to Linux!
+-With: Converting batch files and other parts to Linux!
    - Convert the batch files to a linux variant
    - Convert other needed files to a linux variant
    - Email me the files once completed: **critikal.jt@gmail.com**
---With: Documentation
+-With: Documentation
    - A lot of the source is self explanitory, please make it either a .pdf or a .txt
    - Email me the PDF/TEXT document once completed: **critikal.jt@gmail.com**
---With: Post Processing
+-With: Post Processing
    - For Post Processing, please keep different effects seperate e.g. Bloom.java, AmbientOcclusion.java, not BloomAO.java etc.
    - Email me the code and other files once completed: **critikal.jt@gmail.com**
 
