@@ -2,11 +2,12 @@
 A 3D Game Engine, Designed for old-school shooters
 
 **We Need Help!**
-If you are decently experienced in Java programming, we could use you!
---We currently need help with: The "engine_classconverter"
-  Why? Currently the "jarclassconverter.bat" doesn't work properly, we put in a file, namely the App.java to convert it after making modifications, but it needs the other classes and libraries, what we did was put the files in a "classpath" directory but it still says the engine.GameObject package doesn't exist, and so on with other libraries/classes that are required, if you know a fix, please contact at: critikal.jt@gmail.com
---We also need help with: Documentation
---We also need help with: Post Processing
+--With: Documentation
+   - A lot of the source is self explanitory, please make it either a .pdf or a .txt
+   - Email me the PDF/TEXT document once completed: **critikal.jt@gmail.com**
+--With: Post Processing
+   - For Post Processing, please keep different effects seperate e.g. Bloom.java, AmbientOcclusion.java, not BloomAO.java etc.
+   - Email me the code and other files once completed: **critikal.jt@gmail.com**
 
 **Features**
 -Full 3D Graphics
