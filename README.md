@@ -17,3 +17,18 @@ A 3D Game Engine, Designed for old-school shooters
 -UI
 -Model Import of "MD5" and "OBJ"
 -Support for NormalMaps
+
+**QUICK START GUIDE**
+**A batch file to make everything much easier is coming soon**
+Put the ExMachinaEngine folder somewhere on your computer
+Click the MakeProject.bat file on your computer, then follow the steps
+Once the MakeProject.bat file says "Done!" Exit the installer
+
+Go into the engineclassconverter from your project, and edit the java files, 
+click the jarclassconvert, which converts all the java files to class files
+
+Drag the class file into the source and replace it
+E.G. engineclassconverter --> edit App.java, GameObject.java, click jarclassconvert, copy App.class, GameObject.class
+Goto enginetemplate or engine folder, copy files to corrosponding directory, App.class(Copied) --> main\App.class - replace
+
+Yes it's complicated, but it's being worked on!
