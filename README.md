@@ -14,13 +14,13 @@ A 3D Game Engine, Designed for old-school shooters
    - Email me the code and other files once completed: **critikal.jt@gmail.com**
 
 **Features**
--Full 3D Graphics
--Shadows
--Animations
--Sounds
--UI
--Model Import of "MD5" and "OBJ"
--Support for NormalMaps
+- Full 3D Graphics
+- Shadows
+- Animations
+- Sounds
+- UI
+- Model Import of "MD5" and "OBJ"
+- Support for NormalMaps
 
 **QUICK START GUIDE**
 **A batch file to make everything much easier is coming soon**
